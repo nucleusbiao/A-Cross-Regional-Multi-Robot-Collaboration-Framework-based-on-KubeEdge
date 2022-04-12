@@ -1,3 +1,0 @@
-<launch>
-    <node name="keyboard_control_node" pkg="autolabor_keyboard_control" type="keyboard_control_node" output="screen" />
-</launch>
